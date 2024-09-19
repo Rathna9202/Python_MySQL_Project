@@ -7,10 +7,15 @@ Detailed Features:
 
 Add Employee Functionality:
 This module allows administrators or HR personnel to add new employees to the system by entering details such as:
+
 Employee ID
+
 Name
+
 Mobile
+
 Salary
+
 The entered data is validated and then stored in the MySQL database for permanent record-keeping.
 
 View Employee Information:
