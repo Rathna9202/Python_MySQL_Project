@@ -6,6 +6,7 @@ Developed using Python for the logic and MySQL as the backend database, it suppo
 Detailed Features:
 
 Add Employee Functionality:
+
 This module allows administrators or HR personnel to add new employees to the system by entering details such as:
 
 Employee ID
@@ -34,6 +35,7 @@ Users have the option to remove an employee from the system when required (e.g.,
 Upon deletion, the employee’s record is permanently removed from the MySQL database, ensuring that the system remains up-to-date.
 
 Technical Stack:
+
 Backend (Database): The system uses MySQL to store all employee data. It ensures data integrity, and relational structure and allows for efficient querying.
 
 Frontend (User Interface): A Python-based GUI (Tkinter or other libraries) enables easy interaction for non-technical users. The interface provides buttons for each CRUD operation and inputs for employee data entry.
